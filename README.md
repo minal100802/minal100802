@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minal Aggarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="left" alt="minion" width="400" src="https://c.tenor.com/kQcGDGtb79QAAAAC/alice-animated-alice-stickers.gif">
+<img align="left" alt="minion" width="400" src="https://i.pinimg.com/originals/d1/b7/12/d1b712551a26c1a210896baa512eb10b.gif">
 
 - 📫 How to reach me **minal100802@gmail.com**
 
