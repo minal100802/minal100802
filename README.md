@@ -11,6 +11,7 @@
 <a href="https://linkedin.com/in/minal10aggarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minal10aggarwal" height="30" width="40" /></a>
 <a href="https://instagram.com/minal_100802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minal_100802" height="30" width="40" /></a>
 <a href="https://dribbble.com/minal100802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="minal100802" height="30" width="40" /></a>
+<a href="https://twitter.com/minal100802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="minal100802" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<minal100802>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<minal100802>" height="30" width="40" /></a>
 </p>
 
